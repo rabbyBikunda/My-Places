@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Conrad Dublin",
+        "address": "Earlsfort Terracе, Saint Kevin's, Dublin 2, D02 V562",
+        "phone" : "(01) 602 8900",
+        "rating" : "4.5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":
+        [
+          -6.257726,
+          53.335135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hilton Dublin",
+        "address": "Charlemont Pl, Saint Kevin's, Dublin, D02 A893",
+        "phone" : "(01) 402 9988",
+        "pets" : "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":
+        [
+          -6.259142,
+          53.331162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Grand Canal Hotel",
+        "address": "Grand Canal Street Upper, Dublin, D04 X5X7",
+        "phone" : "(01) 646 1000",
+        "breakfast" : "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates":
+        [
+          -6.237899,
+          53.338362
+        ]
+      }
+    }
+
+  ]
+}
